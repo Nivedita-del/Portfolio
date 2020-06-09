@@ -7,6 +7,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
+import Certificate from './Components/Certificate'
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
@@ -53,6 +54,7 @@ class App extends Component {
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
+        <Certificate data={this.state.resumeData.Certificate}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Testimonials data={this.state.resumeData.testimonials}/>
         <Contact data={this.state.resumeData.main}/>

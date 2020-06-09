@@ -28,7 +28,7 @@ class Contact extends Component {
 
                   <p className="lead">{message}</p>
                   <br/>
-                  <p className="lead warning">Warning: Contact form not yet configured, please contact me via normal email for now</p>
+                  <p className="lead warning"></p>
 
             </div>
 
@@ -85,7 +85,7 @@ class Contact extends Component {
 						   {city} <br />
 						   {state}, {zip}<br />
 						   <span>{phone}</span><br />
-               <span><a href="mailto:tbakerx@gmail.com">{email}</a></span>
+               <span><a href="mailto:niveditamadhava1@gmail.com">{email}</a></span>
 					   </p>
 				   </div>
             </aside>

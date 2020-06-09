@@ -1,170 +1,259 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"Software Security Engineer",
-    "description":" currently employed by ",
-    "employer":"Shop Your Own Mortgage",
-    "jobDescription":"full stack software engineer across the range of our products, as well being our lead security specialist",
+    "name":"Nivedita Madhava",
+    "occupation":"Software Engineer",
+    "description":" currently a Student at ",
+    "employer":"Rashtreeya Vidyalaya College of Engineering (RVCE) ",
+    "jobDescription":"Engineering",
     "image":"profile_pic.jpg",
-    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Having returned from my year of traveling, I pursued my first development job to kick off my career. I was hired as a full stack developer by Shop Your Own Mortgage, where I still work today. Since beginning my career there, I have been given the opportunity to shift into cybersecurity for the company. I am currently working towards my Certified Ethical Hacker certification while working as a full stack developer and lead security specialist.",
+    "bio":"Hi! I am Nivedita.M, I am a self learned developer. I love writing code to solve complex issues. I thought myself how to code though tech blogs written by famous developers and few other courses done on various LMS platforms. I am persuing my Engineering in Electrical and Electronics so with my Engineering skills I can Creating complex algorithms for data interpretation. I have proficiency in Python, Java, C (programming), C++. I have done my Machine learning course from Standford. I am a Photoshop artist you can check my art work in my instagram @psnive. I have a website where I write tech blogs.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
-    "email": "tbakerx@gmail.com",
-    "phone": "(250) 793-0920",
+    "email": "niveditamadhava1@gmail.com",
+    "phone": "+91 9482127568",
     "address":{
-      "street":"Pacific Avenue",
-      "city":"Victoria",
-      "state":"British Columbia",
-      "zip": "V9A 1L6"
+      "street":"K.S Town",
+      "city":"Bangalore",
+      "state":"Karnataka, ",
+      "zip": "560060"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/uc?export=pdf&id=1JZ_9_koC-W0jVg39lGh8Jd0hwJzv8kqn",
+    "resumedownload":"https://pdfhost.io/v/UrKdYL1Fz_NiveditaM_CVpdf.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/nivedita.nivedita.1",
         "className":"fa fa-facebook"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/nivedita-m-2a4412179/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbakerx",
+        "url":"https://www.instagram.com/nivedita_m_/",
         "className":"fa fa-instagram"
       },
       {
-        "name":"stack-overflow",
-        "url":"https://stackoverflow.com/users/8553186/tim-baker?tab=profile",
-        "className":"fa fa-stack-overflow"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/Nivedita-del",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies. These are some of my skills",
     "education":[
       {
-        "school":"University of Victoria",
-        "degree":"Bachelors in Computer Science, Software Engineering Option",
-        "graduated":"Expected April 2018",
-        "description":"Under the recommendation and Guidance of the Head Coach of the UVIC soccer team, I transferred to the University of Victoria. Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
-      },
-      {
-        "school":"Grande Prairie Regional College",
-        "degree":"Computer Systems Technology",
-        "graduated":"April 2013",
-        "description":"I attended GPRC for my first 2 years of post-secondary on a scholarship for the college soccer team. While here, I studied Computer Systems Technology, a 2 year lead-in to a Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I built database structures for fictional companies, created small video games, hand-coded Space Invaders from scratch in Assembly Language, built and coded an Arduino Robot to navigate obstacle courses, a lot of Java and C++ programming for data structures, and much more."
+        "school":"Rashtreeya Vidyalaya College of Engineering (RVCE) ",
+        "degree":"Electrical Electronical Engineering",
+        "graduated":"April 2021",
+        "description":"Here I am persuing my Bachelors of Electrical and Electronics Engineering. I have a passion towards Software Engineering and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for Airtificial Intelligence,Machine Learning, Deep Learning."
       }
     ],
     "work":[
       {
-        "company":"Shop Your Own Mortgage",
-        "title": "Software Security Engineer",
-        "years": "August 2017 - Present",
-        "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security as a whole."
+        "company":"AMZ Automotive",
+        "title": "Machine Learning Intern",
+        "years": "2020",
+        "description": "For most of my time at AMZ Automotive, I have worked as an Machine Learning Intern. Here I have had the chance to teach about what I knew about Machine Learning, Deep Learning, Artificial Intelligence, Python Programming. I have aslo worked with Autonomous car."
       },
       {
-        "company":"City of Fort St. John",
-        "title":"Utility Maintenance Technician 1 / Labourer ",
-        "years":"April 2014 - September 2017",
-        "description":"Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
+        "company":"Cognive",
+        "title":"Co-Founder & Tech Blogger",
+        "years":"August 2019 - Present",
+        "description":"Having my own blog has given me a understanding of how to host a site , What are the security protocols and having a tech blog has helped me to keep in touch with the new technologies. I will be taking care of backend code and server maintance and posting blogs."
       },
       {
-        "company":"School District 60",
-        "title":"IT Technician",
-        "years":"April 2012 - September 2013",
-        "description":"Here I was in charge of various duties involved in keeping the school district's computer systems running smoothly. I performed a varied range of tasks including, but not limited to, reimaging the laptops that the students were given, setting up computer labs, setting up and troubleshooting servers, secure discarding of sensitive data, and a small amount of network analysis."
+        "company":"Verzo",
+        "title":"IoT Developer Intern",
+        "years":"2019",
+        "description":"I was assigned to work on a Home Automation using Raspberry pi and Google Assistance. This gave me a hands on experience to work with Raspberry pi and experiment with it."
       }
     ],
     "skills":[
-      {
-        "name":"Git",
-        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+      { 
+        "name":"Python",
+        "description":"I am most familar with Python Programming Language. I use it as my base for most of my projects, as its my base language, well I can handle most of the libraries like numpy, pandas, scikit-lern etc and I am familar with api's in python as well.",
         "image":"git.jpg"
       },
+      
       {
         "name":"Java",
-        "description":"Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "description":"I first started my Java Program when I was in 8th grade. I am familiar with this language.",
         "image":"java.jpg"
       },
+      
+      { 
+        "name":"Git",
+        "description":"I do have a ocd, so for code managment i use git, and i am very profecient in it, all my projects are on gihub and I can handle any git conflicts",
+        "image":"Python.jpg"
+      },  
       {
-        "name":"React Js",
-        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
-        "image":"react.jpg"
+        "name":"Machine Learning",
+        "description":"As you can see I have secured 95% in Machine Learning from Stanford, I have been developing few machine learning algorithms so far, using libraries like pandas, numpy, tensorflow, opencv etc, I am comfortable with this technology",
+        "image":"Machine.jpg"
       },
       {
-        "name":"Meteor JS",
-        "description":"I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
-        "image":"meteor.jpg"
+        "name":"Data Science",
+        "description":" As I was into machine learning, I need to handle data, so I was interested in data handling and all, so data science was best choice I have done, I was doing data analysis and I was a intern in talent down as a data analysit as well, and a im pro in data visualistion.",
+        "image":"Data.jpg"
+      },
+      {
+        "name":"Linux",
+        "description":"i am handy in linux handling and bash scripting.",
+        "image":"Linux.jpg"
+      },
+      {
+        "name":"Data Structures",
+        "description":"As i mentioned i have OCD, Data structures is a essence in my code, i will try to maintain nlog(n) always",
+        "image":"Struct.jpg"
+      },
+      {
+        "name":"Photoshop",
+        "description":"I use Photoshop as my hobby. I have an instagram account with all my photoshoped art @psnive. I have built a few logos also with it. ",
+        "image":"Photo.jpg"
+      },
+      {
+        "name":"IoT",
+        "description":"I have a self-experience on IoT, i was an intern in a compnay called verzo as IoT developer, there i have done a home automation using google assistance, and personally i have done home Automation using Raspberrypi, where you can control any home appliances with your phone. ",
+        "image":"IOT.jpg"
+      },
+      {
+        "name":" Web Development(HTML, CSS, Js)",
+        "description":"I have developed many websites as a freelancer.",
+        "image":"web.jpg"
+      }
+    ]
+  },
+  "Certificate":{
+    "certificates": [
+      {
+        "title":"Machine Learning",
+        "category":"Stanford University",
+        "image":"certi1.jpg",
+        "url":"https://pdfhost.io/v/aUueU91JL_certi1pdf.pdf"
+      },
+      {
+        "title":"Python Programming",
+        "category":"Eckovation",
+        "image":"certi5.jpg",
+        "url":"https://pdfhost.io/v/Jtxu1kUCE_certi5pdf.pdf"
+      },
+      {
+        "title":"Artificial Intelligence",
+        "category":"IBM",
+        "image":"certi12.jpg",
+        "url":"https://pdfhost.io/v/FkcEEtY40_certi12pdf.pdf"
+      },
+      {
+        "title":"Hackathon",
+        "category":"NASA Space apps Challenge",
+        "image":"certi2.jpg",
+        "url":"https://pdfhost.io/v/wV7GdrauW_certi2pdf.pdf"
+      },
+      
+      {
+        "title":"Java",
+        "category":"Udemy",
+        "image":"certi6.jpg",
+        "url":"https://pdfhost.io/v/BDZUFYZFX_certi6pdf.pdf"
+      },
+      {
+        "title":"Data Structures",
+        "category":"Udemy",
+        "image":"certi3.jpg",
+        "url":"https://pdfhost.io/v/EBaHBMD4t_certi3pdf.pdf"
+      },
+      {
+        "title":"Iot",
+        "category":"Internship",
+        "image":"certi8.jpg",
+        "url":"https://pdfhost.io/v/aSI5XhPJ5_certi8pdf.pdf"
+      },
+      {
+        "title":"C(programming)",
+        "category":"Ekovation",
+        "image":"certi4.jpg",
+        "url":"https://pdfhost.io/v/SOYt.ETVA_certi4pdf.pdf"
+      },
+      {
+        "title":"Python3",
+        "category":"Udemy",
+        "image":"certi10.jpg",
+        "url":"https://pdfhost.io/v/ssrz0QSsl_certi10pdf.pdf" 
+      },
+      {
+        "title":"Machine Learning Intern",
+        "category":"AMZ",
+        "image":"certi9.jpg",
+        "url":"https://pdfhost.io/v/uLpuULaJy_certi9pdf.pdf" 
+      },
+      {
+        "title":"Eclipse",
+        "category":"Udemy",
+        "image":"certi11.jpg",
+        "url":"https://pdfhost.io/v/croOFIapQ_certi11pdf.pdf" 
+      },
+      
+      {
+        "title":"Advanced Diploma in NLP ",
+        "category":"NLP coaching Academy",
+        "image":"certi17.jpg",
+        "url":"https://pdfhost.io/v/sNDJ.u8f1_certi17pdf.pdf" 
+      },
+      {
+        "title":"NLP Practitioner",
+        "category":"NLP coaching Academy",
+        "image":"certi15.jpg",
+        "url":"https://pdfhost.io/v/lDOlno~cM_certi15pdf.pdf" 
+      },
+      {
+        "title":"Diploma in NLP ",
+        "category":"NLP coaching Academy",
+        "image":"certi16.jpg",
+        "url":"https://pdfhost.io/v/A13H3eZzr_certi16pdf.pdf" 
       },
 
       {
-        "name":"Node JS",
-        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
-        "image":"node.jpg"
-      },
-      {
-        "name":"Bootstrap 4",
-        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
-        "image":"bootstrap.jpg"
-      },
-      {
-        "name":"MongoDB",
-        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
-        "image":"mongo.jpg"
-      },
-      {
-        "name":"Heroku",
-        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image":"heroku.jpg"
+        "title":"Java Programming",
+        "category":"Udemy",
+        "image":"certi14.jpg",
+        "url":"https://pdfhost.io/v/WUzGzCfIL_certi14pdf.pdf"
       }
+
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"OCR",
+        "category":"A text detection model for reading RCs.Using both free and paid APIs such as AWS textract, AWS Rekognition, Google vision etc.",
+        "image":"OCR.png",
+        "url":"https://github.com/Nivedita-del/ocr"
+
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Autonomous Self Driving car",
+        "category":"Its an driverless car built on distributed learning and opencv.",
+        "image":"index.jpg",
+        "url":"https://github.com/gauthamarcot/Adeept_project"
+
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"https://original-thai-food.herokuapp.com/index.html"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"https://github.com/tbakerx/react-resume-template"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Cognive Blog",
+        "category":"Its my technical blogging website. I write tech blogs as well handle the sever and security protocols.",
+        "image":"logo2.png",
+        "url":"https://github.com/Cognive-in/Blog"
+
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user":"Alastair Beaumont - Web Developer at AppColony"
+        "text":"First, solve the problem. Then, write the code.",
+        "user":"John Johnson"
       }
     ]
   }
