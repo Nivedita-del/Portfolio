@@ -24,11 +24,11 @@ class Certificate extends Component {
     }
 
     return (
-      <section id="portfolio">
+      <section id="certi">
 
       <div className="row">
 
-         <div className="twelve columns collapsed">
+         <div className="twelve columns collapsed"> 
 
             <h1>My Certificates</h1>
 
