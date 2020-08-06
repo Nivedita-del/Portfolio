@@ -253,12 +253,14 @@
         "url":"https://github.com/Cognive-in/Blog"
 
       }
-      
     ]
   },
   "testimonials":{
     "testimonials":[
-      "If Opportunity doesnt knock then build a door"
+      {
+        "text":"First, solve the problem. Then, write the code.",
+        "user":"John Johnson"
+      }
     ]
   }
 }
