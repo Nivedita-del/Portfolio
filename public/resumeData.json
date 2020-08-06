@@ -258,8 +258,10 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"First, solve the problem. Then, write the code.",
-        "user":"John Johnson"
+        "title":"AMZ",
+        "category":"Recomendation Letter",
+        "image":"Certi.png",
+        "url":"https://www.pdfhost.net/index.php?Action=DownloadFile&id=1bfafa386ad66a05f8e95e4544628c63" 
       }
     ]
   }
