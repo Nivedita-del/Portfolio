@@ -16,8 +16,8 @@
       "state":"Karnataka, ",
       "zip": "560060"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://pdfhost.io/v/UrKdYL1Fz_NiveditaM_CVpdf.pdf",
+    "website": "http://cognive,in",
+    "resumedownload":"https://pdfhost.io/v/i2N20JKFO_NiveditaM_CV1pdf.pdf",
     "social":[
       {
         "name":"facebook",
@@ -53,9 +53,21 @@
     ],
     "work":[
       {
+        "company":"SmartBot",
+        "title": "Research Intern",
+        "years": "Present",
+        "description": "I was assigned to optimize ML,DL,NN algorithms, to determine the minimum log size required for intent identification, and to identify and prove which of the intent classification method is the best method (interms of memory and percentage of accuracy)."
+      },
+      {
+        "company":"Takenmind Technologies",
+        "title": "Machine Learning Intern",
+        "years": "01-07-2020 to 01-07-2020",
+        "description": "I was in charge of data cleaning and assigned to a project where I was working on performance prediction of employees based on their attendance."
+      },
+      {
         "company":"AMZ Automotive",
         "title": "Machine Learning Intern",
-        "years": "2020",
+        "years": "01-03-2020 to 01-06-2020",
         "description": "For most of my time at AMZ Automotive, I have worked as a Machine Learning Intern. Here I have had the chance to teach about what I knew about Machine Learning, Deep Learning, Artificial Intelligence, Python Programming. I have also worked with Autonomous car."
       },
       {
@@ -67,7 +79,7 @@
       {
         "company":"Verzo",
         "title":"IoT Developer Intern",
-        "years":"2019",
+        "years":"01-08-2019 to 31-10-2019",
         "description":"I was assigned to work on a Home Automation using Raspberry pi and Google Assistance. This gave me a hands-on experience to work with Raspberry pi and experiment with it."
       }
     ],
@@ -178,6 +190,13 @@
         "url":"https://pdfhost.io/v/aSI5XhPJ5_certi8pdf.pdf"
       },
       {
+        "title":"AMZ",
+        "category":"Internship Recomendation Letter",
+        "image":"Certi19.jpg",
+        "url":"https://www.pdfhost.net/index.php?Action=DownloadFile&id=1bfafa386ad66a05f8e95e4544628c63"
+
+      },
+      {
         "title":"C(programming)",
         "category":"Ekovation",
         "image":"certi4.jpg",
@@ -201,7 +220,20 @@
         "image":"certi11.jpg",
         "url":"https://pdfhost.io/v/croOFIapQ_certi11pdf.pdf" 
       },
-      
+      {
+        "title":"Takenmind Technologies",
+        "category":"Internship completion Letter",
+        "image":"certi20.jpg",
+        "url":"https://pdfhost.io/v/AzMvix31c_document1pdf.pdf"
+
+      },
+      {
+        "title":"Takenmind Technologies",
+        "category":"Recomendation Letter",
+        "image":"certi21.jpg",
+        "url":"https://pdfhost.io/v/hlG6PU~7A_document2pdf.pdf"
+
+      },
       {
         "title":"Advanced Diploma in NLP ",
         "category":"NLP coaching Academy",
@@ -233,6 +265,13 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Face mask recognition",
+        "category":"Developed a Mask Detection Project. In times of spread of COVID-19 So, the detection of masks in public places has become important.Face Mask detection algo, using tensorflow, keras and opencv.",
+        "image":"mask.jpg",
+        "url":"https://github.com/Cognive-in/TheMask"
+
+      },
+      {
         "title":"OCR",
         "category":"A text detection model for reading RCs.Using both free and paid APIs such as AWS textract, AWS Rekognition, Google vision etc.",
         "image":"OCR.png",
@@ -241,18 +280,12 @@
       },
       {
         "title":"Autonomous Self Driving car",
-        "category":"Its an driverless car built on distributed learning and opencv.",
+        "category":"Its an driverless car built on rpi using distributed learning, opencv, Keras, Tensorflow.",
         "image":"index.jpg",
         "url":"https://github.com/gauthamarcot/Adeept_project"
 
       },
-      {
-        "title":"AMZ",
-        "category":"Internship Recomendation Letter",
-        "image":"Certi19.jpg",
-        "url":"https://www.pdfhost.net/index.php?Action=DownloadFile&id=1bfafa386ad66a05f8e95e4544628c63"
-
-      },
+      
       {
         "title":"Cognive Blog",
         "category":"Its my technical blogging website. I write tech blogs as well handle the sever and security protocols.",
