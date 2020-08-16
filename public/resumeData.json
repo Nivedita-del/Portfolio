@@ -165,12 +165,12 @@
         "url":"https://pdfhost.io/v/FkcEEtY40_certi12pdf.pdf"
       },
       {
-        "title":"Hackathon",
-        "category":"NASA Space apps Challenge",
-        "image":"certi2.jpg",
-        "url":"https://pdfhost.io/v/wV7GdrauW_certi2pdf.pdf"
-      },
-      
+        "title":"Takenmind Technologies",
+        "category":"Internship completion Letter",
+        "image":"certi20.jpg",
+        "url":"https://pdfhost.io/v/AzMvix31c_document1pdf.pdf"
+
+      },      
       {
         "title":"Java",
         "category":"Udemy",
@@ -221,11 +221,10 @@
         "url":"https://pdfhost.io/v/croOFIapQ_certi11pdf.pdf" 
       },
       {
-        "title":"Takenmind Technologies",
-        "category":"Internship completion Letter",
-        "image":"certi20.jpg",
-        "url":"https://pdfhost.io/v/AzMvix31c_document1pdf.pdf"
-
+        "title":"Hackathon",
+        "category":"NASA Space apps Challenge",
+        "image":"certi2.jpg",
+        "url":"https://pdfhost.io/v/wV7GdrauW_certi2pdf.pdf"
       },
       {
         "title":"Takenmind Technologies",
@@ -289,7 +288,7 @@
       {
         "title":"Cognive Blog",
         "category":"Its my technical blogging website. I write tech blogs as well handle the sever and security protocols.",
-        "image":"logo2.png",
+        "image":"logo2.jpg",
         "url":"https://github.com/Cognive-in/Blog"
 
       }
