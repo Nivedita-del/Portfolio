@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://niveditamadhava.netlify.app/sitemap.xml
+Host: https://niveditamadhava.netlify.app
